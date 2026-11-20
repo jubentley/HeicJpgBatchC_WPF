@@ -1,3 +1,3 @@
 # HeicJpgBatchC_WPF
 
-![og-image](Capture60.PNG)
+![og-image](Capture62b.png)
